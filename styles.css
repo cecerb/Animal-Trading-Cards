@@ -3,8 +3,8 @@
 }
 
 #container{
-  border : 2px solid grey;
-  padding: 20px;
+  border : 420px solid red;
+  padding: 320px;
 }
 
 img {
@@ -12,8 +12,8 @@ img {
 }
 .animal-info {
   font-style: italic ;
-  border : 2px solid grey;
-  padding: 1px;
+  border : 420px solid white;
+  padding: 360px;
 }
 
 li {
